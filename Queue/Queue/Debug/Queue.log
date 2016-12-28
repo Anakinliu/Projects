@@ -1,0 +1,7 @@
+﻿  PalindromeNumber.c
+d:\visual studio 2015\projects\queue\queue\palindromenumber.c(95): warning C4047: “函数”:“LinkedHead *”与“LinkedHead **”的间接级别不同
+d:\visual studio 2015\projects\queue\queue\palindromenumber.c(95): warning C4024: “outQueueHead”: 形参和实参 1 的类型不同
+d:\visual studio 2015\projects\queue\queue\palindromenumber.c(96): warning C4047: “函数”:“LinkedHead *”与“LinkedHead **”的间接级别不同
+d:\visual studio 2015\projects\queue\queue\palindromenumber.c(96): warning C4024: “outQueueTail”: 形参和实参 1 的类型不同
+  Queue.vcxproj -> D:\VISUAL STUDIO 2015\Projects\Queue\Debug\Queue.exe
+  Queue.vcxproj -> D:\VISUAL STUDIO 2015\Projects\Queue\Debug\Queue.pdb (Full PDB)

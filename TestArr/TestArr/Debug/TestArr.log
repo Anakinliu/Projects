@@ -1,0 +1,4 @@
+﻿  ShuZuPoint.c
+d:\visual studio 2015\projects\testarr\testarr\shuzupoint.c(4): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\visual studio 2015\projects\testarr\testarr\shuzupoint.c(5): warning C4047: “初始化”:“int *”与“int (*)[2]”的间接级别不同
+  TestArr.vcxproj -> D:\VISUAL STUDIO 2015\Projects\TestArr\Debug\TestArr.exe

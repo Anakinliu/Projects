@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\visual studio 2015\projects\consoleapplication4\consoleapplication4\</FILEPATH>
+      <FILENAME>input_infor.c</FILENAME>
+      <LINE>8</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>input_infor</FUNCTION>
+    <DECORATED>input_infor</DECORATED>
+    <FUNCLINE>2</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\visual studio 2015\projects\consoleapplication4\consoleapplication4\</FILEPATH>
+      <FILENAME>input_infor.c</FILENAME>
+      <LINE>8</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6067</DEFECTCODE>
+    <DESCRIPTION>_Param_(2) 在对“scanf”调用中必须是字符串地址。实际类型: “char **”。</DESCRIPTION>
+    <FUNCTION>input_infor</FUNCTION>
+    <DECORATED>input_infor</DECORATED>
+    <FUNCLINE>2</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\visual studio 2015\projects\consoleapplication4\consoleapplication4\</FILEPATH>
+      <FILENAME>input_infor.c</FILENAME>
+      <LINE>10</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>input_infor</FUNCTION>
+    <DECORATED>input_infor</DECORATED>
+    <FUNCLINE>2</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\visual studio 2015\projects\consoleapplication4\consoleapplication4\</FILEPATH>
+      <FILENAME>input_infor.c</FILENAME>
+      <LINE>10</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6067</DEFECTCODE>
+    <DESCRIPTION>_Param_(2) 在对“scanf”调用中必须是字符串地址。实际类型: “char **”。</DESCRIPTION>
+    <FUNCTION>input_infor</FUNCTION>
+    <DECORATED>input_infor</DECORATED>
+    <FUNCLINE>2</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\visual studio 2015\projects\consoleapplication4\consoleapplication4\</FILEPATH>
+      <FILENAME>input_infor.c</FILENAME>
+      <LINE>12</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>input_infor</FUNCTION>
+    <DECORATED>input_infor</DECORATED>
+    <FUNCLINE>2</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
