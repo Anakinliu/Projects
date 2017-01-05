@@ -1,0 +1,7 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  bool.c
+d:\visual studio 2015\projects\structpracrice\structpracrice\bool.c(13): warning C4101: “secPoiS”: 未引用的局部变量
+d:\visual studio 2015\projects\structpracrice\structpracrice\bool.c(17): warning C4101: “thiS”: 未引用的局部变量
+d:\visual studio 2015\projects\structpracrice\structpracrice\bool.c(11): warning C4101: “x”: 未引用的局部变量
+d:\visual studio 2015\projects\structpracrice\structpracrice\bool.c(12): warning C4101: “firPoiS”: 未引用的局部变量
+  structPracrice.vcxproj -> D:\VISUAL STUDIO 2015\Projects\structPracrice\Debug\structPracrice.exe

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\visual studio 2015\projects\consoleapplication4\consoleapplication4\</FILEPATH>
+      <FILENAME>源.c</FILENAME>
+      <LINE>37</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\visual studio 2015\projects\consoleapplication4\consoleapplication4\</FILEPATH>
+      <FILENAME>源.c</FILENAME>
+      <LINE>41</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>出现的函数 caiQ 不带有范围内的任何原型。 只能执行受限分析。包括相应的标头或添加原型。如果函数定义中省略了参数或返回类型，则也将出现此警告。</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\visual studio 2015\projects\consoleapplication4\consoleapplication4\</FILEPATH>
+      <FILENAME>源.c</FILENAME>
+      <LINE>42</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>出现的函数 yang 不带有范围内的任何原型。 只能执行受限分析。包括相应的标头或添加原型。如果函数定义中省略了参数或返回类型，则也将出现此警告。</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

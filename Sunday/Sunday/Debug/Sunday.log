@@ -1,0 +1,6 @@
+﻿  createLink.c
+d:\visual studio 2015\projects\sunday\sunday\createlink.c(15): warning C4133: “=”: 从“LNode *”到“LNode *”的类型不兼容
+d:\visual studio 2015\projects\sunday\sunday\createlink.c(11): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+  Sunday.vcxproj -> D:\VISUAL STUDIO 2015\Projects\Sunday\Debug\Sunday.exe
+  Sunday.vcxproj -> D:\VISUAL STUDIO 2015\Projects\Sunday\Debug\Sunday.pdb (Full PDB)

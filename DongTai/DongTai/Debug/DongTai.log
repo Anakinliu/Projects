@@ -1,0 +1,9 @@
+﻿  001.c
+d:\visual studio 2015\projects\dongtai\dongtai\001.c(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+d:\visual studio 2015\projects\dongtai\dongtai\001.c(44): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+d:\visual studio 2015\projects\dongtai\dongtai\001.c(49): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+  DongTai.vcxproj -> D:\VISUAL STUDIO 2015\Projects\DongTai\Debug\DongTai.exe
+  DongTai.vcxproj -> D:\VISUAL STUDIO 2015\Projects\DongTai\Debug\DongTai.pdb (Full PDB)

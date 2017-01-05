@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>d:\c源文件\</FILEPATH>
+      <FILENAME>杨辉三角.c</FILENAME>
+      <LINE>42</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>yang</FUNCTION>
+    <DECORATED>yang</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>d:\c源文件\</FILEPATH>
+      <FILENAME>杨辉三角.c</FILENAME>
+      <LINE>10</LINE>
+      <COLUMN>21</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>出现的函数 time 不带有范围内的任何原型。 只能执行受限分析。包括相应的标头或添加原型。如果函数定义中省略了参数或返回类型，则也将出现此警告。</DESCRIPTION>
+    <FUNCTION>yang</FUNCTION>
+    <DECORATED>yang</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>d:\c源文件\</FILEPATH>
+      <FILENAME>杨辉三角.c</FILENAME>
+      <LINE>10</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>出现的函数 srand 不带有范围内的任何原型。 只能执行受限分析。包括相应的标头或添加原型。如果函数定义中省略了参数或返回类型，则也将出现此警告。</DESCRIPTION>
+    <FUNCTION>yang</FUNCTION>
+    <DECORATED>yang</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>d:\visual studio 2015\projects\consoleapplication4\consoleapplication4\</FILEPATH>
+      <FILENAME>input_infor.c</FILENAME>
+      <LINE>8</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>input_infor</FUNCTION>
+    <DECORATED>input_infor</DECORATED>
+    <FUNCLINE>2</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>d:\visual studio 2015\projects\consoleapplication4\consoleapplication4\</FILEPATH>
+      <FILENAME>input_infor.c</FILENAME>
+      <LINE>8</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6067</DEFECTCODE>
+    <DESCRIPTION>_Param_(2) 在对“scanf”调用中必须是字符串地址。实际类型: “char **”。</DESCRIPTION>
+    <FUNCTION>input_infor</FUNCTION>
+    <DECORATED>input_infor</DECORATED>
+    <FUNCLINE>2</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>d:\visual studio 2015\projects\consoleapplication4\consoleapplication4\</FILEPATH>
+      <FILENAME>input_infor.c</FILENAME>
+      <LINE>10</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>input_infor</FUNCTION>
+    <DECORATED>input_infor</DECORATED>
+    <FUNCLINE>2</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>d:\visual studio 2015\projects\consoleapplication4\consoleapplication4\</FILEPATH>
+      <FILENAME>input_infor.c</FILENAME>
+      <LINE>10</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6067</DEFECTCODE>
+    <DESCRIPTION>_Param_(2) 在对“scanf”调用中必须是字符串地址。实际类型: “char **”。</DESCRIPTION>
+    <FUNCTION>input_infor</FUNCTION>
+    <DECORATED>input_infor</DECORATED>
+    <FUNCLINE>2</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>d:\visual studio 2015\projects\consoleapplication4\consoleapplication4\</FILEPATH>
+      <FILENAME>input_infor.c</FILENAME>
+      <LINE>12</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>input_infor</FUNCTION>
+    <DECORATED>input_infor</DECORATED>
+    <FUNCLINE>2</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>d:\visual studio 2015\projects\consoleapplication4\consoleapplication4\</FILEPATH>
+      <FILENAME>三角形面积.c</FILENAME>
+      <LINE>43</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>san</FUNCTION>
+    <DECORATED>san</DECORATED>
+    <FUNCLINE>9</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>d:\visual studio 2015\projects\consoleapplication4\consoleapplication4\</FILEPATH>
+      <FILENAME>源.c</FILENAME>
+      <LINE>37</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>d:\visual studio 2015\projects\consoleapplication4\consoleapplication4\</FILEPATH>
+      <FILENAME>源.c</FILENAME>
+      <LINE>41</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>出现的函数 caiQ 不带有范围内的任何原型。 只能执行受限分析。包括相应的标头或添加原型。如果函数定义中省略了参数或返回类型，则也将出现此警告。</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>d:\visual studio 2015\projects\consoleapplication4\consoleapplication4\</FILEPATH>
+      <FILENAME>源.c</FILENAME>
+      <LINE>42</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>出现的函数 yang 不带有范围内的任何原型。 只能执行受限分析。包括相应的标头或添加原型。如果函数定义中省略了参数或返回类型，则也将出现此警告。</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>d:\visual studio 2015\projects\consoleapplication4\consoleapplication4\</FILEPATH>
+      <FILENAME>猜拳.c</FILENAME>
+      <LINE>27</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>caiQ</FUNCTION>
+    <DECORATED>caiQ</DECORATED>
+    <FUNCLINE>2</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>d:\visual studio 2015\projects\consoleapplication4\consoleapplication4\</FILEPATH>
+      <FILENAME>猜拳.c</FILENAME>
+      <LINE>28</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “getchar”。</DESCRIPTION>
+    <FUNCTION>caiQ</FUNCTION>
+    <DECORATED>caiQ</DECORATED>
+    <FUNCLINE>2</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>
