@@ -133,10 +133,10 @@ int main() {
 	HuffmanCode HC;
 	int n = 0;
 	int i = 0;
-	int w[13] = { 0 ,0 ,0 ,0 ,0 ,0 ,0,0,0,0,0,0,0 };
-	scanf("%d", &n);
+	int w[8] = { 0 ,0 ,0 ,0 ,0 ,0 ,0,0 };
+	scanf("%d", &n); //结点个数
 	for (i = 0; i < n; i++) {
-		scanf("%d", &w[i]);
+		scanf("%d", &w[i]); //输入结点值
 	}
 
 

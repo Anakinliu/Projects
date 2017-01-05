@@ -23,12 +23,16 @@ typedef struct Node {
 }Node, *NodeArray;
 //标志数组，不必在结构体中加标志变量
 int Searched[nodesCounts] = { 0,0,0,0,0,0,0,0 };
+void InitSearched() {
+	for (int i = 0; i < nodesCounts; i++) {
+		Searched[i] = 0;
+	}
+}
 void DFS(NodeArray nodes,int i) {
 	int temp;
 	if (Searched[i] == 0) {
 		printf("%c", nodes[i].data);
 		Searched[i] = 1;
-		
 	}
 	if (nodes[i].afterNode == NULL) {
 		return;
@@ -40,11 +44,34 @@ void DFS(NodeArray nodes,int i) {
 			return;
 		}
 	}
-	DFS(nodes, temp);
+	//DFS(nodes, temp);
 	while (nodes[i].afterNode != NULL) {
 		temp = nodes[i].afterNode->index;
 		nodes[i].afterNode = nodes[i].afterNode->next;
 		DFS(nodes, temp);
+	}
+}
+void NFS(NodeArray nodes) {
+	int i ,temp;
+	InitSearched();
+	for (i=0; i < nodesCounts; i++) {
+		if (Searched[i] == 0) {
+			printf("%c", nodes[i].data);
+		}
+
+		//为了避免修改nodes，需要增加辅助空间
+		Linked * tempLinked = nodes[i].afterNode;
+		Linked * tempLinkedNext;
+		while (tempLinked != NULL) {
+			temp = tempLinked->index;
+			if (Searched[temp] == 0) {
+				printf("%c", nodes[temp].data);
+				Searched[temp] = 1;
+			}
+			tempLinkedNext = tempLinked->next;
+			tempLinked = tempLinkedNext;
+			//nodes[i].afterNode = nodes[i].afterNode->next;
+		}
 	}
 }
 int main() {
@@ -73,7 +100,10 @@ int main() {
 		}
 		//不用头节点
 		nodes[i].afterNode = nodes[i].afterNode->next;
-	}
+	}	
+	NFS(nodes);
+	printf("\n");
+	InitSearched();
 	DFS(nodes, 0);
 	return 0;
 }
