@@ -1,0 +1,4 @@
+﻿  002.c
+d:\visual studio 2015\projects\insertpointer\insertpointer\002.c(9): warning C4013: “gets”未定义；假设外部返回 int
+  InsertPointer.vcxproj -> D:\VISUAL STUDIO 2015\Projects\InsertPointer\x64\Debug\InsertPointer.exe
+  InsertPointer.vcxproj -> D:\VISUAL STUDIO 2015\Projects\InsertPointer\x64\Debug\InsertPointer.pdb (Full PDB)

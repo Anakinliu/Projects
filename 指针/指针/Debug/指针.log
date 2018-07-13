@@ -1,0 +1,6 @@
+﻿  源.cpp
+d:\visual studio 2015\projects\指针\指针\源.cpp(15): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+d:\visual studio 2015\projects\指针\指针\源.cpp(16): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+d:\visual studio 2015\projects\指针\指针\源.cpp(17): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“int”
+  指针.vcxproj -> D:\VISUAL STUDIO 2015\Projects\指针\Debug\指针.exe
+  指针.vcxproj -> D:\VISUAL STUDIO 2015\Projects\指针\Debug\指针.pdb (Full PDB)

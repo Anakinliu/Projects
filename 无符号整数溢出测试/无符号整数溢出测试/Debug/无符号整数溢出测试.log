@@ -1,0 +1,5 @@
+﻿  源.c
+d:\visual studio 2015\projects\无符号整数溢出测试\无符号整数溢出测试\源.c(7): warning C4305: “初始化”: 从“__int64”到“unsigned int”截断
+d:\visual studio 2015\projects\无符号整数溢出测试\无符号整数溢出测试\源.c(20): warning C4305: “初始化”: 从“int”到“short”截断
+  无符号整数溢出测试.vcxproj -> D:\VISUAL STUDIO 2015\Projects\无符号整数溢出测试\Debug\无符号整数溢出测试.exe
+  无符号整数溢出测试.vcxproj -> D:\VISUAL STUDIO 2015\Projects\无符号整数溢出测试\Debug\无符号整数溢出测试.pdb (Full PDB)

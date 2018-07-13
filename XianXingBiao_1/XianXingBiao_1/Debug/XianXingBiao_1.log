@@ -1,0 +1,15 @@
+﻿  Xu.c
+  HeBIng_Hand.c
+d:\visual studio 2015\projects\xianxingbiao_1\xianxingbiao_1\hebing_hand.c(32): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+d:\visual studio 2015\projects\xianxingbiao_1\xianxingbiao_1\hebing_hand.c(37): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+d:\visual studio 2015\projects\xianxingbiao_1\xianxingbiao_1\hebing_hand.c(39): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+d:\visual studio 2015\projects\xianxingbiao_1\xianxingbiao_1\hebing_hand.c(45): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+  正在生成代码...
+d:\visual studio 2015\projects\xianxingbiao_1\xianxingbiao_1\hebing_hand.c(30): warning C4700: 使用了未初始化的局部变量“pb_n”
+d:\visual studio 2015\projects\xianxingbiao_1\xianxingbiao_1\hebing_hand.c(30): warning C4700: 使用了未初始化的局部变量“pa_n”
+  XianXingBiao_1.vcxproj -> D:\VISUAL STUDIO 2015\Projects\XianXingBiao_1\Debug\XianXingBiao_1.exe
+  XianXingBiao_1.vcxproj -> D:\VISUAL STUDIO 2015\Projects\XianXingBiao_1\Debug\XianXingBiao_1.pdb (Full PDB)

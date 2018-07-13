@@ -1,0 +1,4 @@
+﻿  源.c
+d:\visual studio 2015\projects\consoleapplication1\consoleapplication1\源.c(11): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+  ConsoleApplication1.vcxproj -> D:\VISUAL STUDIO 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> D:\VISUAL STUDIO 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)

@@ -1,0 +1,8 @@
+﻿  源.c
+d:\visual studio 2015\projects\timelibrary\timelibrary\源.c(41): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 1 拥有了类型“time_t”
+  d:\visual studio 2015\projects\timelibrary\timelibrary\源.c(41): note: 请考虑在格式字符串中使用“%lld”
+  d:\visual studio 2015\projects\timelibrary\timelibrary\源.c(41): note: 请考虑在格式字符串中使用“%I64d”
+d:\visual studio 2015\projects\timelibrary\timelibrary\源.c(60): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(475): note: 参见“ctime”的声明
+  TimeLibrary.vcxproj -> D:\VISUAL STUDIO 2015\Projects\TimeLibrary\Debug\TimeLibrary.exe
+  TimeLibrary.vcxproj -> D:\VISUAL STUDIO 2015\Projects\TimeLibrary\Debug\TimeLibrary.pdb (Full PDB)

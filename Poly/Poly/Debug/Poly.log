@@ -1,0 +1,11 @@
+﻿  001.c
+d:\visual studio 2015\projects\poly\poly\001.c(21): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+d:\visual studio 2015\projects\poly\poly\001.c(18): warning C4700: 使用了未初始化的局部变量“p”
+d:\visual studio 2015\projects\poly\poly\001.c(26): warning C4700: 使用了未初始化的局部变量“r”
+d:\visual studio 2015\projects\poly\poly\001.c(42): warning C4700: 使用了未初始化的局部变量“aa”
+d:\visual studio 2015\projects\poly\poly\001.c(44): warning C4700: 使用了未初始化的局部变量“bb”
+d:\visual studio 2015\projects\poly\poly\001.c(48): warning C4700: 使用了未初始化的局部变量“p”
+d:\visual studio 2015\projects\poly\poly\001.c(54): warning C4700: 使用了未初始化的局部变量“r”
+  Poly.vcxproj -> D:\VISUAL STUDIO 2015\Projects\Poly\Debug\Poly.exe
+  Poly.vcxproj -> D:\VISUAL STUDIO 2015\Projects\Poly\Debug\Poly.pdb (Full PDB)

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1383686515 source:e:\lyq\tcp_server\main.cpp
+	<iostream>
+
+1515915880 source:d:\visual studio 2015\projects\tcp_server\main.cpp
+	<iostream>
+	<winsock2.h>
+	<windows.h>
+	<winsock.h>
+	<stdio.h>
+
